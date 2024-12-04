@@ -58,7 +58,8 @@ The analysis followed these six phases:
   
 4. **Analyze**
    - Compare usage patterns (e.g., ride duration, popular days) between casual riders and members.
-   - I did not explore seasonal trends because I worked only for two months of the year (January/February) but i explored weekdays and weekends and bike type preferences.
+   - I did not explore seasonal trends because I only worked with the data of the first two months of the year (January/February) but i explored weekdays and weekends and 
+     bike type preferences.
   
 5. **Share**
    - Create visualizations in Tableau and R.
