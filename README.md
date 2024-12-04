@@ -33,8 +33,8 @@ The primary business task is:
 
 ## Dataset
 - **Source**: Cyclistic's publicly available trip data (provided by the course).
-- **Timeframe**: 12 months of trip data from 2022.
-- **Size**: Approximately 5 million rows
+- **Timeframe**: The first 2 months of trip data from 2023.
+- **Size**: Almost 400,000 rows
 - **Features**: Trip start/end times, locations, use types (casual vs. member), bike types, and ride duration.
 
 **Note** Data has been anonymized to protect user privacy.
@@ -53,12 +53,12 @@ The analysis followed these six phases:
    - Assess for errors, missing values, and inconsistencies.
   
 3. **Process**
-   - Clean the data using R and SQL.
-   - Remove duplicates and filter out erroneous data (e.g., negative ride times)
+   - Clean the data using Google Spreadsheet (I Chose spreadshhets because of the small amound of data).
+   - Removed duplicates, missing values and filter out erroneous data (e.g., negative ride times, test rides, and zero ride_lengths)
   
 4. **Analyze**
-   - Compare usage patterns (e.g., ride duration, popular days/times) between casual riders and members.
-   - Explore seasonal trends and bike type preferences.
+   - Compare usage patterns (e.g., ride duration, popular days) between casual riders and members.
+   - I did not explore seasonal trends because I worked only for two months of the year (January/February) but i explored weekdays and weekends and bike type preferences.
   
 5. **Share**
    - Create visualizations in Tableau and R.
