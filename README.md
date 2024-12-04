@@ -35,7 +35,7 @@ The primary business task is:
 - **Source**: Cyclistic's publicly available trip data (provided by the course).
 - **Timeframe**: The first 2 months of trip data from 2023.
 - **Size**: Almost 400,000 rows
-- **Features**: Trip start/end times, locations, use types (casual vs. member), bike types, and ride duration.
+- **Features**: Trip start/end days/times, use types (casual vs. member), bike types, and ride duration.
 
 **Note** Data has been anonymized to protect user privacy.
 
