@@ -84,11 +84,9 @@ The analysis followed these six phases:
 ---
 
 ## How to view the project
-1. **R Script**: The full R script for data cleaning, analysis, and visualization can be found in this repository:
-   - [cyclistic_analysis.R]( cyclistic_analysis.R)
-2. **Tableau Dashboard**: View the interactive dashboard here:
-   - [Cyclistic Bike-Share Analysis Dashboard](#)
-3. **Project Report**:The final report summarizing the analysis and recommendations is available as a PDF:
+1. **Tableau Dashboard**: View the interactive dashboard here:
+   - [https://public.tableau.com/authoring/CyclisticDataAnalysis_17335388506770/Sheet3#1](#)
+2. **Project Report**:The final report summarizing the analysis and recommendations is available as a PDF:
    - [Cyclistic_Case_Study_Report.pdf](#)
   
 ---
