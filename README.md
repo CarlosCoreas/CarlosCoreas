@@ -88,7 +88,7 @@ The analysis followed these six phases:
    - [https://public.tableau.com/authoring/CyclisticDataAnalysis_17335388506770/Sheet3#1](#)
 2. **Project Report**:The final report summarizing the analysis and recommendations is available as a PDF:
    - [Cyclistic_Case_Study_Report.pdf](#)
-   - [https://docs.google.com/spreadsheets/d/1eqxfxH5-vNEvHIMZul7D1mW9zPB_ToorhTUPUQsEtOI/edit?usp=sharing]
+   - [https://docs.google.com/spreadsheets/d/1eqxfxH5-vNEvHIMZul7D1mW9zPB_ToorhTUPUQsEtOI/edit?usp=sharing](#)
   
 ---
 
