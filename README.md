@@ -72,9 +72,9 @@ The analysis followed these six phases:
 
 ## Key Insights
 1. **Ride Duration**: Casual riders tend to take longer rides than annual members.
-2. **Peak Times**: Casual riders primarily use bikes on weekdays, while members use them consistently throughout the weekends.
-3. **Bike Preferences**: Members prefer electric bikes, whereas casual riders favor classic and docked bikes.
-4. **Seasonality**: Casual rider activity peaks in summer, suggesting a preference for leisure use.
+2. **Peak Times**: Casual riders primarily use bikes on weekends, while members use them consistently throughout the weekdays.
+3. **Bike Preferences**: Members prefer both electric and classic bikes, whereas casual riders favor electric bikes.
+4. **Seasonality**: Not done yet.
 
 ### Recommendations:
  - Launch weekend promotional campaigns targeting casual riders.
